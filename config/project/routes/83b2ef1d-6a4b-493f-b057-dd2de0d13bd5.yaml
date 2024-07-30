@@ -1,0 +1,6 @@
+siteUid: null
+sortOrder: 1
+template: _/pages/news/feed.rss.twig
+uriParts:
+  - news/rss
+uriPattern: news/rss
